@@ -5,4 +5,4 @@
 5. Check the number of epochs to be 50
 6. run the programme with command eg. `python3 chk1.py blues --retrain`
 7. wait for 3-4 hours
-8. oce weights file generated `python3 chk1.py blues`
+8. once weights file generated `python3 chk1.py blues`
